@@ -1,0 +1,33 @@
+category,name,size,crust,toppings,sauces
+named_pizza,margherita,medium,classic,"mozzarella, tomato",tomato
+named_pizza,pepperoni,large,thin,"pepperoni, mozzarella",tomato
+named_pizza,veggie,medium,classic,"bell peppers, onion, mushroom, olives",tomato
+named_pizza,bbq chicken,large,pan,"chicken, onion, mozzarella",bbq
+named_pizza,hawaiian,medium,classic,"ham, pineapple, mozzarella",tomato
+size,small,,,,
+size,medium,,,,
+size,large,,,,
+size,extra large,,,,
+crust,thin,,,,
+crust,classic,,,,
+crust,pan,,,,
+crust,cheese burst,,,,
+crust,stuffed,,,,
+topping,pepperoni,,,,
+topping,mozzarella,,,,
+topping,tomato,,,,
+topping,mushroom,,,,
+topping,onion,,,,
+topping,chicken,,,,
+topping,ham,,,,
+topping,pineapple,,,,
+topping,bell peppers,,,,
+topping,olives,,,,
+topping,jalapenos,,,,
+topping,basil,,,,
+topping,beef,,,,
+sauce,tomato,,,,
+sauce,bbq,,,,
+sauce,pesto,,,,
+sauce,white garlic,,,,
+sauce,none,,,,
